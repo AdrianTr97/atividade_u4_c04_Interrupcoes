@@ -4,7 +4,8 @@
 #include "hardware/pio.h"
 #include "hardware/clocks.h"
 #include "hardware/gpio.h"
-#include "atividadeu4c04.pio.h"// Biblioteca para WS2812
+#include "atividadeu4c04.pio.h"
+// linha 7 inclui Biblioteca para WS2812 Biblioteca para WS2812
 
 #define IS_RGBW false
 //Define que os LEDs são RGB (e não RGBW)
